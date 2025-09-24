@@ -1,24 +1,33 @@
-<<<<<<< HEAD
-# Video-chat-application
-=======
-# 𝚅𝙸𝙳𝙴𝙾-𝙲𝙷𝙰𝚃-𝙰𝙿𝙿-𝙲𝙲
-𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝚟𝚒𝚍𝚎𝚘 𝚌𝚑𝚊𝚝 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚋𝚞𝚒𝚕𝚝 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻/𝙲𝚂𝚂, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝,𝙽𝚘𝚍𝚎𝙹𝚂, 𝚂𝚘𝚌𝚔𝚎𝚝 𝚒𝚘, 𝚠𝚎𝚋𝚁𝚃𝙲
+# Real-Time Video Calling & Chatting Website
+
+## Project Overview
+A personal project that enables users to connect in real-time via video and audio calls, text chat, and a collaborative whiteboard feature.
+
+---
 
 ## Features
+- **Real-Time Video & Audio Communication**: Connect with users using peer-to-peer streaming via WebRTC.
+- **Text Chat**: Integrated text chat alongside video calls.
+- **Collaborative Whiteboard**: Draw and collaborate in real-time during meetings.
+- **Secure Authentication**: Google Authentication for login and user management.
+- **Server-Side Logic**: Built with Node.js and Express.js for handling requests, routing, and meeting room functionalities.
+- **Real-Time Event Handling**: Utilized Socket.IO for client-server communication and live updates.
 
-- 𝙻𝚒𝚟𝚎 𝚅𝚒𝚍𝚎𝚘 𝙲𝚊𝚕𝚕 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢
-- 𝙲𝚑𝚊𝚝 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢
-- 𝙻𝚒𝚟𝚎 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚟𝚎 𝚆𝚑𝚒𝚝𝚎𝚋𝚘𝚊𝚛𝚍 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢
+---
 
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Real-Time Communication**: WebRTC, Socket.IO
+- **Authentication**: Google OAuth
 
-## Tech Stack
+---
 
-**Client:** 𝙷𝚃𝙼𝙻/𝙲𝚂𝚂, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝
+## Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sreehithabasireddy666/Video-chat-application.git
 
-**Server:** 𝙽𝚘𝚍𝚎𝙹𝚂, 𝚂𝚘𝚌𝚔𝚎𝚝 𝚒𝚘
-
-
-## Deployment
 
 #### Install Dependancies
 
